@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>chromedriver</id>
+    <version>142.0.7444.175</version>
+    <title>Chromedriver</title>
+    <authors>The Chromium Authors</authors>
+    <owners>C.Small</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://chromium.googlesource.com/chromium/src/+/refs/heads/main/chrome/test/chromedriver/BUILD.gn</licenseUrl>
+    <projectUrl>https://chromedriver.chromium.org/home</projectUrl>
+    <iconUrl>http://cdn.rawgit.com/yetanotherchris/Choco-chromedriver-latest/master/icon.png</iconUrl>
+    <description>Developed in collaboration with the Chromium team, ChromeDriver is a standalone server which implements WebDriver's wire protocol.</description>
+    <summary>Downloads and installs Chromedriver.exe from https://googlechromelabs.github.io/chrome-for-testing/</summary>
+    <releaseNotes></releaseNotes>
+    <copyright>Chromedriver authors</copyright>
+    <tags>chromedriver webdriver chrome</tags>
+    <packageSourceUrl>https://github.com/yetanotherchris/Choco-chromedriver-latest</packageSourceUrl>
+  </metadata>
+</package>
